@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daniel, a brazilian guy in love with Data Science <3
+### Hi there 👋 I'm Daniel, a brazilian guy in love with Data Science
 
 ## I'm a Computer Science student at the Federal University of Viçosa
 
