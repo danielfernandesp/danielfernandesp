@@ -2,12 +2,10 @@
 
 ## I'm a Computer Science student at the Federal University of Viçosa
 
-- 🔭 I’m currently working on Doutor Célio de Castro Hospital as Software Analyst's Intern with focus in Biomedical Data Science
-- 🌱 I’m currently learning Python for Data Science and Biomedical studies
+- 🌱 I’m currently learning Python for Data Science and Web Development
 - 👯 I’m looking to collaborate on a software team focused on Data Science to find and to improve solutions to the problems of the world!
 - 💬 Ask me about anything and I'll find the answer .
 - 📫 How to reach me: via WhatsApp +5531993184431 and linkedin: /danielfernandescc
-- 😄 Pronouns: Dani 
 
 ## ✉️ Find me on:
 
