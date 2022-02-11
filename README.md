@@ -10,7 +10,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/danielfernandescc/" target="_blank" rel="noopener noreferrer"> Linkedin <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin link" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/danielfernandescc/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin link" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:danielnrk3@gmail.com"  target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://api.whatsapp.com/send?phone=5531993184431&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Templarian/MaterialDesign/blob/master/svg/whatsapp.svg" alt="whatsappme" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
