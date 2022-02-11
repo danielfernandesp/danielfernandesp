@@ -3,17 +3,17 @@
 ## I'm a Computer Science student at the Federal University of Viçosa
 
 - 🌱 I’m currently learning Python for Data Science and Web Development on back-end focus (Node.js, PHP, Express and non relational databases)
-- 👯 I’m looking to collaborate on a software team focused on Data Science to find and to improve solutions to the problems of the world!
+- 👯 I’m looking to collaborate on a software team focused on Data World to find and to improve solutions to the problems of the world!
 - 💬 Ask me about anything and I'll find the answer .
-- 📫 How to reach me: via WhatsApp +5531993184431 and linkedin: /danielfernandescc
 
 ## ✉️ Find me on:
 
 
 <p align="center">
- <a href="https://github.com/danielfernandescc" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/danielfernandescc/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/danielfernandescc" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="github link" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/danielfernandescc/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin link" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:danielnrk3@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://api.whatsapp.com/send?phone=5531993184431&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub"><img src="https://github.com/Templarian/MaterialDesign/blob/master/svg/whatsapp.svg" alt="whatsappme" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
