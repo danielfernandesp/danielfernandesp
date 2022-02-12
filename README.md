@@ -28,11 +28,7 @@
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 </p>	
 
-##![](https://visitor-badge.laobi.icu/badge?page_id=danielfernandescc.danielfernandescc)
-##[![Github](https://img.shields.io/github/followers/danielfernandescc?label=Follow&style=social)](https://github.com/danielfernandescc)
-##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandescc&theme=gotham)
-##![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfernandescc&show_icons=true&theme=gotham)
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandescc&theme=dracula)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfernandescc&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://visitor-badge.laobi.icu/badge?page_id=danielfernandescc.danielfernandescc)
+[![Github](https://img.shields.io/github/followers/danielfernandescc?label=Follow&style=social)](https://github.com/danielfernandescc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandescc&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfernandescc&show_icons=true&theme=gotham)
