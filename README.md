@@ -1,4 +1,4 @@
-## Hi, I'm Daniel Fernandes. A brazilian guy in love with Data Science ! 👋🏻
+## Hi, I'm Daniel Fernandes 👋🏻 A brazilian guy in love with Data Science ! 
 ### Back-end developer, data science and BI development, future graduate in Computer Science, son and Togg and Toy's father 🐕
 #### I believe in: Data can can transform World through scientific-technological cooperation, developing technology to contribute to people's health. ❤️‍🩹
 
