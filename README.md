@@ -3,11 +3,11 @@
 #### I believe in: Data can can transform World through scientific-technological cooperation, developing technology to contribute to people's health. ❤️‍🩹
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfernandescc&label=GitHub Views&color=blue&style=plastic" alt="danielfernandescc" /> </p>
-<a href="https://www.linkedin.com/in/danielfernandescc/" target="_blank" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfernandesp&label=GitHub Views&color=blue&style=plastic" alt="danielfernandesp" /> </p>
+<a href="https://www.linkedin.com/in/danielfernandesp/" target="_blank" >
 <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/danielfernandescc" target="_blank" >
+<a href="https://github.com/danielfernandesp" target="_blank" >
 <img align="left" alt="Daniel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/danielfernandesp0/" target="_blank" >
@@ -28,15 +28,15 @@
 - 👀 I’m currently looking for a job.
 - 🌱 I’m currently learning more about Business Intelligence, Machine Learning, JavaScript, Typescript and Python for Data Science.
 - 💬 Ask me about data Data or any tech-related stuff.
-- 📫 How to reach me: [LinkedIn - @danielfernandescc](https://www.linkedin.com/in/danielfernandescc/), [Instagram - @danielfernandesp0](https://www.instagram.com/danielfernandesp0/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531993184431&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
+- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [Instagram - @danielfernandesp0](https://www.instagram.com/danielfernandesp0/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531993184431&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
 - 😄 Pronouns: He/His
 - #️⃣ Hashtags: Computer Science, Data Science, Data Lover, development, health, bioinformatics.
 
 <!-- Follow icons shortcut -->
-[![Linkedin: Daniel Fernandes](https://img.shields.io/badge/-danielfernandescc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandescc)](https://www.linkedin.com/in/danielfernandescc/)
-[![GitHub Daniel Fernandes Pinho](https://img.shields.io/github/followers/danielfernandescc?label=follow&style=social)](https://www.linkedin.com/in/danielfernandescc/)
-[![Blog 🚧](https://img.shields.io/badge/Blog-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandescc)
-[![Portfolio 🚧](https://img.shields.io/badge/LivePortfolio-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandescc)
+[![Linkedin: Daniel Fernandes](https://img.shields.io/badge/-danielfernandesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandesp)](https://www.linkedin.com/in/danielfernandesp/)
+[![GitHub Daniel Fernandes Pinho](https://img.shields.io/github/followers/danielfernandesp?label=follow&style=social)](https://www.linkedin.com/in/danielfernandesp/)
+[![Blog 🚧](https://img.shields.io/badge/Blog-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandesp)
+[![Portfolio 🚧](https://img.shields.io/badge/LivePortfolio-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandesp)
 
 **Languages and Tools:**  
 
@@ -49,12 +49,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code> 
 <!-- Still Learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 
-<a href="https://github.com/danielfernandescc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandescc&theme=light&hide=html,cmake,makefile&layout=compact" />
+<a href="https://github.com/danielfernandesp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandesp&theme=light&hide=html,cmake,makefile&layout=compact" />
 </a>
-<a href="https://github.com/danielfernandescc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielfernandescc&show_icons=true&theme=light&line_height=27" alt="Daniel Fernandes github stats"/>
+<a href="https://github.com/danielfernandesp">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielfernandesp&show_icons=true&theme=light&line_height=27" alt="Daniel Fernandes github stats"/>
 </a>
 <a href="https://github.com/iampawan/Curso-JavaScript-Moderno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfernandescc&repo=Curso-JavaScript-Moderno&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfedanielfernandesprnandescc&repo=Curso-JavaScript-Moderno&theme=light" />
 <a/>
