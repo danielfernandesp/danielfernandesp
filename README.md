@@ -56,5 +56,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielfernandesp&show_icons=true&theme=light&line_height=27" alt="Daniel Fernandes github stats"/>
 </a>
 <a href="https://github.com/iampawan/Curso-JavaScript-Moderno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfedanielfernandesprnandescc&repo=Curso-JavaScript-Moderno&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfernandesp&repo=Curso-JavaScript-Moderno&theme=light" />
 <a/>
