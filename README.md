@@ -10,9 +10,6 @@
 <a href="https://github.com/danielfernandesp" target="_blank" >
 <img align="left" alt="Daniel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/danielfernandesp0/" target="_blank" >
-<img align="left" alt="Daniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://api.whatsapp.com/send?phone=5531993184431&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub" target="_blank" /a>
   <!-- I'm so EXCITED to start my channel and writing my blog that I've already put the icons links here ! -->
 <a>
