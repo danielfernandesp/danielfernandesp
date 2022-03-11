@@ -36,7 +36,6 @@
 [![Portfolio 🚧](https://img.shields.io/badge/LivePortfolio-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandesp)
 
 **Languages and Tools:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://img.icons8.com/ios-filled/50/fa314a/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
@@ -45,13 +44,9 @@
 <code><img height="20" src="https://img.icons8.com/windows/32/4a90e2/r-project.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code> 
 <!-- Still Learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
-
-<a href="https://github.com/danielfernandesp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandesp&theme=light&hide=html,cmake,makefile&layout=compact" />
-</a>
-<a href="https://github.com/danielfernandesp">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielfernandesp&show_icons=true&theme=light&line_height=27" alt="Daniel Fernandes github stats"/>
-</a>
-<a href="https://github.com/iampawan/Curso-JavaScript-Moderno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfernandesp&repo=Curso-JavaScript-Moderno&theme=light" />
-<a/>
+ 
+ <div align="center">
+  <a href="https://github.com/danielfernandesp">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielfernandesp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandesp&layout=compact&langs_count=7&theme=radical"/>
+</div>
