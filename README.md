@@ -32,7 +32,7 @@
 [![Linkedin: Daniel Fernandes](https://img.shields.io/badge/-danielfernandesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandesp)](https://www.linkedin.com/in/danielfernandesp/)
 [![GitHub Daniel Fernandes Pinho](https://img.shields.io/github/followers/danielfernandesp?label=follow&style=social)](https://www.linkedin.com/in/danielfernandesp/)
 [![Blog 🚧](https://img.shields.io/badge/Blog-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandesp)
-[![Portfolio 🚧](https://img.shields.io/badge/LivePortfolio-Soon-2648ff?style=flat-square&logo=google-chrome)](https://github.com/danielfernandesp)
+[![Portfolio](https://img.shields.io/badge/LivePortfolio-2648ff?style=flat-square&logo=google-chrome)](https://danielfernandes.vercel.app/)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
