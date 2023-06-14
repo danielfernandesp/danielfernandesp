@@ -24,7 +24,7 @@
 <!-- About and contact-->
 - 🌱 I’m currently learning more about Business Intelligence, Machine Learning, JavaScript, Typescript and Python for Data Science.
 - 💬 Ask me about world of the Data and we can discovery more!
-- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531991513183&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
+- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531997024451&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
 - 😄 Pronouns: He/Him
 - #️⃣ Hashtags: Computer Science, Data Science, Data Lover, development, health, bioinformatics.
 
@@ -42,6 +42,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/4a90e2/r-project.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code> 
+ 
 <!-- Still Learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
  
  <div align="center">
