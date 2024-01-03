@@ -2,13 +2,7 @@
 ### Computer Scientist, Data Science and BI developer.
 #### I believe in: Data can can transform World through scientific-technological cooperation, developing technology to contribute to people's health. ❤️‍🩹
 
-
-<a href="https://www.linkedin.com/in/danielfernandesp/" target="_blank" >
-<img align="left" alt="Daniel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=5531997024451&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub" target="_blank" /a>
-<br/>
-<br/>
+</br>
 
 <!-- About and contact-->
 - 🌱 I’m currently learning more about Business Intelligence, Machine Learning and Python for Data Science.
