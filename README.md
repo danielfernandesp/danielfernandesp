@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/danielfernandesp/" target="_blank" >
 <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/danielfernandesp" target="_blank" >
-<img align="left" alt="Daniel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://api.whatsapp.com/send?phone=5531997024451&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub" target="_blank" /a>
 <br/>
 <br/>
