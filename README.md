@@ -7,7 +7,7 @@
 <!-- About and contact-->
 - 🌱 I’m currently learning more about Business Intelligence, Machine Learning and Python for Data Science.
 - 💬 Ask me about world of the Data and we can discovery more!
-- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531997024451&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
+- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [WhatsApp - Text me, it will be a pleasure to talk to you! ](https://api.whatsapp.com/send?phone=5531999232150&text=Ei%20Daniel,%20venho%20do%20seu%20GitHub!)
 - 😄 Pronouns: He/Him
 - #️⃣ Hashtags: Computer Science, Data Science, Data Lover, development, health, bioinformatics.
 
