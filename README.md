@@ -1,11 +1,15 @@
 ## Hello, I'm Daniel Fernandes and welcome to my codespace! 
 
-I am a Computer Scientist and data professional with over 4 years of experience in the data industry, specializing in Business Intelligence (BI) and Data Analysis. As a Data Science and BI developer, I am passionate about transforming raw data into actionable insights that drive informed decision-making and business growth. I am deeply committed to advancing my expertise in Artificial Intelligence (AI), with the goal of contributing to the evolution of this field. My focus lies in exploring the intersection of Business Intelligence and advanced AI techniques, integrating predictive analytics and automation into decision-making processes as well as seeking to understand all the new possibilities that AI brings to us. By combining the power of data with cutting-edge AI innovation, I strive to develop intelligent, scalable, and impactful solutions that address complex challenges and unlock new opportunities.
+I am a Computer Scientist and data professional with over 4 years of experience in the data industry, specializing in Business Intelligence (BI) and Data Analysis. As a Data Science and BI developer, I am passionate about transforming raw data into actionable insights that drive informed decision-making and business growth. 
+
+I am deeply committed to advancing my expertise in Artificial Intelligence (AI), with the goal of contributing to the evolution of this field. My focus lies in exploring the intersection of Business Intelligence and advanced AI techniques, integrating predictive analytics and automation into decision-making processes as well as seeking to understand all the new possibilities that AI brings to us. 
+
+By combining the power of data with cutting-edge AI innovation, I strive to develop intelligent, scalable, and impactful solutions that address complex challenges and unlock new opportunities.
 
 </br>
 
 <!-- About and contact-->
-- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [  ! ](https://api.whatsapp.com/send?phone=5531999232150&text=Hi%20Daniel,%20I%20came%20from%20your%20GitHub!)
+- 📫 How to reach me: [LinkedIn - @danielfernandesp](https://www.linkedin.com/in/danielfernandesp/), [WhatsApp](https://api.whatsapp.com/send?phone=5531999232150&text=Hi%20Daniel,%20I%20came%20from%20your%20GitHub!)
 
 <!-- Follow icons shortcut -->
 [![Linkedin: Daniel Fernandes](https://img.shields.io/badge/-danielfernandesp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandesp)](https://www.linkedin.com/in/danielfernandesp/)
